@@ -182,39 +182,6 @@
 
 ## <p align="center"> 📈 GitHub Stats 📉</p>
 
-### <p align="center"> 🏆 Trophies 🏆</p>
-
-<p align="center">
-    <img
-    src="https://github-profile-trophy.vercel.app/?username=susheelthapa&column=4&no-bg=true&no-frame=true&margin-w=25&margin-h=15&theme=dark_lover"
-    />
-</p>
-
-<br/>
-<br/>
-
-## <p align="center"> 🔥 Streaks 🔥 </p>
-
-<p align="center">
-    <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=susheelthapa&theme=yeblu&hide_border=true&border_radius=50&date_format=M%20j%5B%2C%20Y%5D&dates=2EDD45"
-    />
-</p>
-
-<br/>
-<br/>
-
-## <p align="center"> 🐍 Contribution Snake 🐍 </p>
-
-<p align="center">
-  <img
-    src="https://github.com/SusheelThapa/SusheelThapa/blob/output/github-contribution-grid-snake.svg"
-    alt="snake eating my contribution"
-  />
-</p>
-
-## <p align="center"> 🔎 Summary 🔍 </p>
-
 <p align="center">
   <img
     src="https://github.com/SusheelThapa/SusheelThapa/blob/profile3D/profile-3d-contrib/profile-night-rainbow.svg"
