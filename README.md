@@ -185,6 +185,6 @@
 <p align="center">
   <img
     src="https://github.com/SusheelThapa/SusheelThapa/blob/profile3D/profile-3d-contrib/profile-night-rainbow.svg"
-    alt="snake eating my contribution"
+    alt="Github Stat Summary"
   />
 </p>
