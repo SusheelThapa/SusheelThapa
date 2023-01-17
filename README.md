@@ -184,7 +184,7 @@
 
 <p align="center">
   <img
-    src="https://github.com/SusheelThapa/SusheelThapa/blob/profile3D/profile-3d-contrib/profile-night-rainbow.svg"
+    src="https://github.com/SusheelThapa/SusheelThapa/blob/actions/profile-3d-contrib/profile-night-rainbow.svg"
     alt="Github Stat Summary"
   />
 </p>
