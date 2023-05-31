@@ -184,7 +184,13 @@
 
 <p align="center">
   <img
-    src="https://github.com/SusheelThapa/SusheelThapa/blob/actions/profile-3d-contrib/profile-night-rainbow.svg"
-    alt="Github Stat Summary"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=susheelthapa&theme=blueberry&hide_border=true"
+    alt="Github Streak"
+  />
+</p>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=susheelthapa&theme=blueberry&show_icons=true&hide_border=true&count_private=true"
+    alt="Github Stats"
   />
 </p>
