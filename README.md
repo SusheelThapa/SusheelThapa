@@ -189,8 +189,12 @@
   />
 </p>
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=susheelthapa&theme=blueberry&show_icons=true&hide_border=true&count_private=true"
-    alt="Github Stats"
-  />
+  <a href="https://quine.sh?utm_source=widgets&utm_campaign=SusheelThapa">
+    <img
+        src="https://stats.quine.sh/SusheelThapa/github?theme=dark"
+        alt="SusheelThapa's GitHub | Stats"
+    />
+  </a>
 </p>
+
+
